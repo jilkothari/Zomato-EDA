@@ -55,9 +55,9 @@ Seaborn = 0.10.1
 
 Capstone.zip - complete zip file with data
 
-DarshanGandhi (1).html - html view of the notebook
+Zomato Eda.html - html view of the notebook
 
-DarshanGandhi-5.ipynb - the complete notebook 
+Zomato EDA.ipynb - the complete notebook 
 
 Readme.md - read me file for better understanding
 
