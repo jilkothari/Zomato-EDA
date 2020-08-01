@@ -83,8 +83,3 @@ We have always tried to understand the basic steps one needs to take in order to
 [How to plot a heatmap using Seaborn?](
 https://seaborn.pydata.org/generated/seaborn.heatmap.html)
 
-
-
-
-# For more insights I have written a blog on the same. Here is the link : 
-https://medium.com/@darshangandhi1151/exploratory-data-analysis-for-beginners-a29bf2d0c494
